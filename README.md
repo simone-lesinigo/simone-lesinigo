@@ -12,13 +12,5 @@ Passionate about technology since I was a kid, I’ve always been driven by a de
 ![](https://streak-stats.demolab.com/?user=simone-lesinigo&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=simone-lesinigo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=simone-lesinigo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=simone-lesinigo&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=simone-lesinigo&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=simone-lesinigo&color=blue)](https://visitcount.itsvg.in)
