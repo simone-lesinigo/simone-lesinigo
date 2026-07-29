@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 👋 Hi, I'm Simone!
 
 Passionate about technology since I was a kid, I’ve always been driven by a deep curiosity for how software works and how to build it right. I am currently completing a joint Double Degree Master’s Program in Computer Science/Informatics between Università della Svizzera italiana (USI) and the Università degli Studi di Milano-Bicocca (UniMiB). Over the years, I have developed a strong appreciation for clean code, solid software design patterns, and full-stack development. I enjoy taking complex ideas and turn them into robust, real software solutions.
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simonelesinigo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simone.lesinigo@gmail.com)
 
